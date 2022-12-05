@@ -17,3 +17,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SantiagoLeites&show_icons=true&theme=tokyonight" alt="santiago" />
 <br>
 <img align="center" width="80px" src="https://visitor-badge.glitch.me/badge?page_id=SantiagoLeites.SantiagoLeites&left_color=#309999&right_color=#453099" />
+<br>
+  
+<img align="center" src="contributions.svg" />
