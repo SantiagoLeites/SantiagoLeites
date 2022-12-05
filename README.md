@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SantiagoLeites
+- 👀 I’m interested in [Game Design, Programming,IT Support, Space]
+- 🌱 I’m currently learning [Spetialization on IT Support, Web Design and all related to technology]
+- 💞️ I’m looking to collaborate on everything i can help!
+- 📫 How to reach me: [mailto:santiagoleitesc@outlook.com][www.instagram.com/saito_leites/?hl=es-la]
