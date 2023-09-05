@@ -1,3 +1,4 @@
+<html>
 <a href="https://www.linkedin.com/in/santiago-leites/">
   <img align="left" alt="Santiago Leites LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
 </a>
@@ -20,3 +21,4 @@
 <br>
   
 <img align="center" src="contributions.svg" />
+</html>
